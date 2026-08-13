@@ -1,4 +1,4 @@
-# CoCare <img width="34" height="33" alt="image" src="https://github.com/user-attachments/assets/2d80d557-07ca-497d-afb0-13e57a11443b" />
+# CoCare 
 
 
 **Empowering caregivers through AI-driven, adaptive support tools.**
